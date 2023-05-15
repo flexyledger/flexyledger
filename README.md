@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Moralis Gaming Metaverse Hackaton<br>👯 I’m looking to collaborate on any Web3 projects<br>🤝 I’m looking for help to work with Metaverse, VR and AR<br>🌱 I’m currently learning Alchemy, Solana, Polkadot, and other EVM<br>💬 Ask me about Blockchain, Ethereum, Web3, Metaverse, DeFi, and Cryptocurrency<br>📫 How to reach me flexycode.dev@gmail.com, flexycode@protonmail.com<br>⚡ Fun fact : I used to play games like all the majority games of riotgames and love to develop games in terms of NFT, Metaverse , Web3 games
+🔭 I’m currently working on Moralis Gaming Metaverse Hackaton<br>👯 I’m looking to collaborate on any Web3 projects<br>🤝 I’m looking for help to work with Metaverse, VR and AR<br>🌱 I’m currently learning Alchemy, Solana, Polkadot, and other EVM<br>💬 Ask me about Blockchain, Ethereum, Web3, Metaverse, DeFi, and Cryptocurrency<br>📫 How to reach me flexyledger@gmail.com, flexycode@protonmail.com<br>⚡ Fun fact : I used to play games like all the majority games of riotgames and love to develop games in terms of NFT, Metaverse , Web3 games
 
 
 ## 🌐 Socials:
