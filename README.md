@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Jay Arre Talosig</h1>
-<h3 align="center">Fullstack Web3 Developer and Blockchain Architect</h3>
+<h3 align="center">Fullstack Web3 Developer and Blockchain Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/tachyon-2-dr.gif">
 
 
 # 💫 About Me:
-🔭 I’m currently working on DeFi Staking Mechanism<br>👯 I’m looking to collaborate on any Web3 and AI projects<br>🤝 I’m looking for help to work with DeFi, OpenAI and DeX<br>🌱 I’m currently learning Rust, Alchemy, Solana, Polkadot, and other EVM<br>💬 Ask me about Blockchain, Ethereum, Web3, Metaverse, DeFi, and Cryptocurrency<br>📫 How to reach me flexyledger@gmail.com, flexycode@protonmail.com<br>⚡ Fun fact : I used to play games like all the majority games of riotgames and love to develop games in terms of NFT, Metaverse , Web3 games
+🔭 I’m currently working on DeFi Staking Mechanism<br>👯 I’m looking to collaborate on any Blockchain and AI projects<br>🤝 I’m looking for help to work with DeFi, OpenAI and DeX<br>🌱 I’m currently learning Rust, Alchemy, Solana, Polkadot, and other EVM<br>💬 Ask me about Blockchain, Ethereum, Web3, Metaverse, DeFi, and Cryptocurrency<br>📫 How to reach me flexyledger@gmail.com, flexycode@protonmail.com<br>⚡ Fun fact : I used to play games like all the majority games of riotgames and love to develop games in terms of NFT, Cryptoverse , GameFi and other Web3 stuff
 
 
 ## 🌐 Socials:
