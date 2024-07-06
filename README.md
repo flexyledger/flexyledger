@@ -1,5 +1,9 @@
+<img src="https://github.com/flexyledger/flexyledger/blob/main/assets/github-background.png" />
+<h1 align="center">
+Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm <a href="https://dev.to/flexycode/" target="_blank" rel="noreferrer">Jay Arre</a>
+</h1>
 
-<h1 align="center">Hi 👋, I'm Jay Arre Talosig</h1>
+
 <h3 align="center">Fullstack Web3 Developer and Blockchain Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/tachyon-2-dr.gif">
 
