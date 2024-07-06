@@ -21,7 +21,20 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <br>
 
+<br>
+
+<div align="center">
+<img width="200" height="200" src="https://media.giphy.com/media/k9EFIyP1I1kccJLsUR/giphy.gif?cid=ecf05e47i7qqh9rc9vxc6qrd93c2f1lt7c7dyyw2jilhqfgl&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img src="https://media.giphy.com/media/hVZgpgxk4Dp8vqG4be/giphy.gif?cid=790b76115gxpe515wfnhe6swxra6x1bzg1rjw65k01vfg1s4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/Y4hQj1h0eVbE3rIInW/giphy.gif?cid=790b76115gxpe515wfnhe6swxra6x1bzg1rjw65k01vfg1s4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWd4cGU1MTV3Zm5oZTZzd3hyYTZ4MWJ6ZzFyanc2NWswMXZmZzFzNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/k9EFIyP1I1kccJLsUR/giphy.gif?cid=ecf05e47i7qqh9rc9vxc6qrd93c2f1lt7c7dyyw2jilhqfgl&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250">
+
+<br>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+
 
 # 💫 About Me:
 🔭 I’m currently working on DeFi Staking Mechanism<br>👯 I’m looking to collaborate on any Blockchain and AI projects<br>🤝 I’m looking for help to work with DeFi, OpenAI and DeX<br>🌱 I’m currently learning Rust, Alchemy, Solana, Polkadot, and other EVM<br>💬 Ask me about Blockchain, Ethereum, Web3, Metaverse, DeFi, and Cryptocurrency<br>📫 How to reach me flexyledger@gmail.com, flexycode@protonmail.com<br>⚡ Fun fact : I used to play games like all the majority games of riotgames and love to develop games in terms of NFT, Cryptoverse , GameFi and other Web3 stuff
