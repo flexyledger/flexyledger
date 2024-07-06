@@ -8,6 +8,15 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 </h3> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/tachyon-2-dr.gif">
 
+<i class="fab fa-pinterest"></i>
+
+<p align="center">
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/flexyledger?color=236ad3&style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/twitter/follow/flexyledger?logo=twitter&style=for-the-badge" <a href="https://dev.to/flexycode/ alt="ThrippleK" />
+<img src="https://komarev.com/ghpvc/?username=flexyledger&color=blue&style=for-the-badge" alt="ThrippleK" />
+</p>
+
+
 
 # 💫 About Me:
 🔭 I’m currently working on DeFi Staking Mechanism<br>👯 I’m looking to collaborate on any Blockchain and AI projects<br>🤝 I’m looking for help to work with DeFi, OpenAI and DeX<br>🌱 I’m currently learning Rust, Alchemy, Solana, Polkadot, and other EVM<br>💬 Ask me about Blockchain, Ethereum, Web3, Metaverse, DeFi, and Cryptocurrency<br>📫 How to reach me flexyledger@gmail.com, flexycode@protonmail.com<br>⚡ Fun fact : I used to play games like all the majority games of riotgames and love to develop games in terms of NFT, Cryptoverse , GameFi and other Web3 stuff
