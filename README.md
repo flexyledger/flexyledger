@@ -50,27 +50,32 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 ## [Introduction](#introduction)
 <div style="display: flex; justify-content: space-between;">
-<img width="200" height="200" src="https://media.giphy.com/media/gLRTwEwvBlhLBYThOq/giphy.gif?cid=ecf05e47dhz40tv9h61aztdox5q2d1kkyw9ut1i667pp4arr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/Sr4D0JYXItF1C/giphy.gif?cid=ecf05e47g9fxd637tsvrne6enbfvgf08vl6abgg2vmjhhsg3&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/56ftHnRhmdpNC/giphy.gif?cid=790b7611n8v5qw2o1c61rnekfs2uu8kh1exs4c9tzcw3pys1&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/gLRTwEwvBlhLBYThOq/giphy.gif?cid=ecf05e47dhz40tv9h61aztdox5q2d1kkyw9ut1i667pp4arr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTB5NDJka255N3h4aGl1M2c0MzVnc3dmNDd5cXczZGN0dGN5OG00cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/DdpmhAQpQZzwHSrQ3f/giphy.gif" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/7XPaG6ifhXK8Og4m6w/giphy.gif?cid=790b761110y42dkny7xxhiu3g435gswf47yqw3dcttcy8m4q&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/sMxhudBF8BeWeCeBZQ/giphy.gif?cid=ecf05e47dcmgjkxudnszjfxjg1s05vgxjmzvq5mprbdwt8j4&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/SaF7u0ujVP8Ke6eTlr/giphy.gif?cid=ecf05e473acc4cj8dze804embwwjr1lspqazakwcgy733v0j&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
    
-  <img width="200" height="200" src="https://media.giphy.com/media/c6EsRlEmxPUQ6jvlIJ/giphy.gif?cid=ecf05e47g3zptts3bcdduevx1pfrvaqlw9or10heciyly56k&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 10px;" />
-  <img width="200" height="200" src="https://media.giphy.com/media/gDU3K2ooKk9VXMBara/giphy.gif?cid=ecf05e47qyr5n4obt943e7tsv04wvjq0ggvf1835q9usxjgj&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 10px;" />
-  <img width="200" height="200" src="https://media.giphy.com/media/tV2SncdfCaxK2cJyYN/giphy.gif?cid=ecf05e47zg5o9jut4ch3ysdzv4oofpuclgftjccnkr26ouq9&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-  <img width="200" height="200" src="https://media.giphy.com/media/c6EsRlEmxPUQ6jvlIJ/giphy.gif?cid=ecf05e47g3zptts3bcdduevx1pfrvaqlw9or10heciyly56k&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/uchtyS0dx9Jjk42Cee/giphy.gif?cid=ecf05e47sz24q5mmmey8akf88j5jma58dkno42gbxgjrio8u&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/jxeXddQAmH86Ix0l0j/giphy.gif?cid=ecf05e47t721w2emkr6bnsrv18vxr5utszwcxp2suj1yac0w&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/Qmt4ih5oRXBPqAs4v6/giphy.gif?cid=ecf05e47sz24q5mmmey8akf88j5jma58dkno42gbxgjrio8u&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/cLz9tpiXohao708KXf/giphy.gif?cid=ecf05e47sz24q5mmmey8akf88j5jma58dkno42gbxgjrio8u&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 
 
-<img width="200" height="200" src="https://media.giphy.com/media/gLRTwEwvBlhLBYThOq/giphy.gif?cid=ecf05e47dhz40tv9h61aztdox5q2d1kkyw9ut1i667pp4arr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/jXL1LqDFPhEVGW3lSt/giphy.gif?cid=ecf05e47zg5o9jut4ch3ysdzv4oofpuclgftjccnkr26ouq9&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/kXmDKChS2gETDzTH2G/giphy.gif?cid=ecf05e47zg5o9jut4ch3ysdzv4oofpuclgftjccnkr26ouq9&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/gLRTwEwvBlhLBYThOq/giphy.gif?cid=ecf05e47dhz40tv9h61aztdox5q2d1kkyw9ut1i667pp4arr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/yMgXHPRGRYmFA2yotT/giphy.gif?cid=ecf05e47180hrayi6wkr9coftvpzkwvfcpjukr6th7x4ywda&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/cjcyzqEGYMzYe6uhQm/giphy.gif?cid=ecf05e47x0kl9w1qee73tibnh1ygzsw4sio23e05qd9c7dmd&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/tntWh4nxdoF2nkIIfU/giphy.gif?cid=ecf05e47x0kl9w1qee73tibnh1ygzsw4sio23e05qd9c7dmd&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/U6VyoPSJbGRqERRvY3/giphy.gif?cid=ecf05e47g7ijrdq0fh64bptif7eb2i1ym16recheuxsj7zrp&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+
+  <img width="200" height="200" src="https://media.giphy.com/media/QARHZHAnD37RyS6V0h/giphy.gif?cid=ecf05e47fldo3ieqpezrc2agljvnjyd622rvbw1i92vrk28n&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/zocS3yIUjRHJajMEVJ/giphy.gif?cid=ecf05e47fldo3ieqpezrc2agljvnjyd622rvbw1i92vrk28n&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/3ckPJN8jcFYFWk1YGC/giphy.gif?cid=ecf05e47t721w2emkr6bnsrv18vxr5utszwcxp2suj1yac0w&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/eNvjDTMs11OBEA48pz/giphy.gif?cid=ecf05e47fldo3ieqpezrc2agljvnjyd622rvbw1i92vrk28n&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-⚡Fun fact : I'm good at learning new things and adapting easily <br>
-⚡Fun fact : I always read documentation everyday before I begin to code <br>
-⚡Fun fact : I love Final Fantasy, Science Fiction, Biology, Architecture, Mutants and Galaxy Adventure <br>
+⚡Fun fact : I love to hodl and trade my cryptocurrency <br>
+⚡Fun fact : I'm good at writing documentation, it motivates me to write a solid code <br>
+⚡Fun fact : I believe that Bitcoin and other Cryptocurrency is the future of money <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">   
 
 <div align="center">
