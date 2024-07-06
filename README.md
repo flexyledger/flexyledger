@@ -13,6 +13,8 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 🔭 I’m currently working on DeFi Staking Mechanism<br>👯 I’m looking to collaborate on any Blockchain and AI projects<br>🤝 I’m looking for help to work with DeFi, OpenAI and DeX<br>🌱 I’m currently learning Rust, Alchemy, Solana, Polkadot, and other EVM<br>💬 Ask me about Blockchain, Ethereum, Web3, Metaverse, DeFi, and Cryptocurrency<br>📫 How to reach me flexyledger@gmail.com, flexycode@protonmail.com<br>⚡ Fun fact : I used to play games like all the majority games of riotgames and love to develop games in terms of NFT, Cryptoverse , GameFi and other Web3 stuff
 
 
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/flexyledger#5660) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/flexycode) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@flexycode.dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/flexyledger)  
 
