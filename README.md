@@ -125,7 +125,13 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 | 💱 - using solidity, hardhat or crypto related function | 
 | 🧊 - blockchain | 
 | 🌐 - networking setting, YAML file | 
-| 📋 - List of Content | 
+| 📋 - List of Content |
+| 🤖 - Introduction |
+| ⚙️ - Tech Stack |
+| 🔋 - Features |
+| 🕸️ - Snippets (Code to Copy) |
+| 🔗 - Links |
+| 🚀 - More |
 
 
 ## 💎 Some Programming Language & Technologies Icons for Commiting message
