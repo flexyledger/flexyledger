@@ -43,10 +43,15 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 🤝 I’m looking for help to work with DeFi, OpenAI and DeX<br>
 🌱 I’m currently learning Rust, Alchemy, Solana, Polkadot, and other EVM<br>
 💬 Ask me about Blockchain, Ethereum, Web3, Metaverse, DeFi, and Cryptocurrency<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
 📫 How to reach me flexyledger@gmail.com, flexycode@protonmail.com<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
 ⚡ Fun fact : I used to play games like all the majority games of riotgames and love to develop games in terms of NFT, Cryptoverse , GameFi and other Web3 stuff
+
+</div>
 
 ## [Introduction](#introduction)
 <div style="display: flex; justify-content: space-between;">
@@ -72,11 +77,13 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
   <img width="200" height="200" src="https://media.giphy.com/media/eNvjDTMs11OBEA48pz/giphy.gif?cid=ecf05e47fldo3ieqpezrc2agljvnjyd622rvbw1i92vrk28n&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
 ⚡Fun fact : I love to hodl and trade my cryptocurrency <br>
 ⚡Fun fact : I'm good at writing documentation, it motivates me to write a solid code <br>
 ⚡Fun fact : I believe that Bitcoin and other Cryptocurrency is the future of money <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">   
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000"> 
 
 <div align="center">
 <h1>Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h1>
@@ -160,7 +167,28 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
-### 🔑 ₿lockchain Technology 
+### 🔑 ₿lockchain Technology     
+
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+</p>
+
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/124059/screenshots/4638407/shot.gif"/>
+
+
+<!-- Introduction Pannel button link, it will redirect to the top -->
+#### [Back to Table of Content](#-introduction)
+<!-- End point line insert Thanks for visiting enjoy your day, feel free to modify this  -->
+---
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
+</p>
+
+<!-- Genshin Impact -->
+<div align="center">
+<img src="https://media.giphy.com/media/qr4CNpxIL6wwNUYZsL/giphy.gif?cid=ecf05e47iqq0k4rx0kv1fb3w4hl8dja3ouiqzx4vz1665i6b&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+</div>
 
 <!-- End point line insert Comeback again next time, feel free to modify this  -->
 <p align="center">
@@ -170,13 +198,5 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 </p>
     
 <br>
-
 <!-- End point insert background effect line of sight color red -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/124059/screenshots/4638407/shot.gif"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
----
-[![](https://visitcount.itsvg.in/api?id=flexyledger&icon=0&color=0)](https://visitcount.itsvg.in)
