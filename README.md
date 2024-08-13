@@ -176,7 +176,6 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/124059/screenshots/4638407/shot.gif"/>
 
-
 <!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#introduction)
 <!-- End point line insert Thanks for visiting enjoy your day, feel free to modify this  -->
