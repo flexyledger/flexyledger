@@ -99,6 +99,9 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <img src="https://github.com/flexyledger/flexyledger/blob/main/assets/source.gif" width="300">
 </div>
 
+<!-- Language and Tools, feel free to revise.
+Visit this Github url for more icon preference: https://github.com/tandpfun/skill-icons#readme -->
+<div align="center">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/flexyledger#5660) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/flexycode) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@flexycode.dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/flexyledger)  
@@ -110,12 +113,21 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 </div>
 
+<!-- GitHub Stats
+Visit this Github url for more icon preference: https://github.com/tandpfun/skill-icons#readme -->
+<div align="center">
+
 # <h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
 ![](https://github-readme-stats.vercel.app/api?username=flexyledger&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=flexyledger&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flexyledger&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+##### My GitHub contributions graph
+
+<a href="https://github.com/flexyledger"><img src="https://github-readme-activity-graph.vercel.app/graph?username=flexycode&bg_color=0C1014&color=4C8ED9&line=4C8ED9&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
+
 
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=flexyledger&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
