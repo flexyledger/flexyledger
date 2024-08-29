@@ -118,9 +118,14 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 <div align="center">
 
 # <h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
-![](https://github-readme-stats.vercel.app/api?username=flexyledger&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![Flexyledger GitHub stats](https://github-readme-stats.vercel.app/api?username=flexyledger&show_icons=true&theme=ambient_gradient)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=flexyledger&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=flexyledger&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- For more theme color visit this link https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+![Flexyledger GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flexyledger&langs_count=11&theme=ambient_gradient&border=false&include_all_commits=true&count_private=true&layout=compact) 
+
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
