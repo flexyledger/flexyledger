@@ -113,6 +113,24 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 
 </div>
 
+<!-- GitHuB contributions such as GitHuB Workflow Status, GitHub release, GitHub marketplace, Github contribution graph, GitHub Trophies, GitHub Snake Animation Workflow -->
+# 📈 GitHub Contribution:
+
+##### My GitHub contributions graph
+
+![snake gif](https://github.com/flexyledger/flexyledger/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
+
+##### My GitHub contributions graph
+
+<a href="https://github.com/flexyledger"><img src="https://github-readme-activity-graph.vercel.app/graph?username=flexycode&bg_color=0C1014&color=4C8ED9&line=4C8ED9&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
+
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
+
 <!-- GitHub Stats
 Visit this Github url for more icon preference: https://github.com/tandpfun/skill-icons#readme -->
 <div align="center">
@@ -128,11 +146,6 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-##### My GitHub contributions graph
-
-<a href="https://github.com/flexyledger"><img src="https://github-readme-activity-graph.vercel.app/graph?username=flexycode&bg_color=0C1014&color=4C8ED9&line=4C8ED9&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
-
 
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=flexyledger&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
